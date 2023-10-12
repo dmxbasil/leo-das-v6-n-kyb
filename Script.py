@@ -16,14 +16,19 @@ class script(object):
 <i>Aᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴛᴏ sᴇᴇ ᴛʜᴇ ᴍᴀɢɪᴄ ᴏʀ ʀᴇᴀᴅ ᴍᴏʀᴇ ғʀᴏᴍ ᴛʜᴇ ᴍᴇɴᴜ ʙᴇʟᴏᴡ</i>''')
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝙼𝚈 𝙷𝙴𝙻𝙿 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
-    ABOUT_TXT = """<b><i>🤖 ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/OTT_Movies_Search_Bot><b>OTT Search Bot</b></a>\n
-👨‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://t.me/basildmx><b>basil</b></a>\n
-📝 ʟᴀɴɢᴜᴀɢᴇ : ᴘʏʀᴏɢʀᴀᴍ\n
-📚 ꜰʀᴀᴍᴇᴡᴏʀᴋ : ᴘʏᴛʜᴏɴ 3\n
-📡 ʜᴏsᴛᴇᴅ ᴏɴ : heroku \n
-📢 ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/dmx_chating><b></b>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>\n
-🌟 ᴠᴇʀsɪᴏɴ : ᴠ 4.0\n</b></i>"""
-    SOURCE_TXT = """<b>@dmx_chating</b>
+    ABOUT_TXT = """<b>✯ ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/{}>{}</a>,
+✯ ᴏɴᴡᴇʀ: <a href=https://t.me/Movie_Flix_Tm>ᴍᴏᴠɪᴇ ᴍᴏᴠɪᴇ</a>
+✯ ʟɪʙʀᴀʀy: ᴩyʀᴏɢʀᴀᴍ
+✯ ʟᴀɴɢᴜᴀɢᴇ: ᴩyᴛʜᴏɴ
+✯ ᴠᴇʀꜱɪᴏɴ : 𝟹.12.0
+✯ ᴅᴀᴛᴀ ʙᴀꜱᴇ: ᴍᴏɴɢᴏ ᴅʙ
+✯ ᴅᴀᴛᴀ ʙᴀꜱᴇ 2 : ʀᴇᴅɪꜱ ᴅʙ
+✯ ꜱᴇʀᴠᴇʀ : ʜᴇʀᴏᴋᴜ
+✯ ᴄᴩᴜ : 2ᴠ ᴄᴩᴜ
+✯ ᴠᴇʀꜱɪᴏɴ : 7.8
+✯ ꜱᴛᴀᴛꜱ : ʙᴇᴛᴀ
+✯ ꜱᴏᴜʀᴄᴇ : ᴩʀɪᴠᴀᴛᴇ ᴄᴏᴅᴇ"""
+    SOURCE_TXT = """<b> ꜱʀʏ ɪᴛꜱ ᴩʀɪᴠᴀᴛᴇ ᴄᴏᴅᴇ</b>
 » b>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
@@ -49,7 +54,7 @@ class script(object):
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
-<code>[Button Text](buttonurl:https://t.me/dmx_chating)</code>
+<code>[Button Text](buttonurl:https://t.me/+xRGPJsC0jAA1NTA1)</code>
 
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""
@@ -100,11 +105,11 @@ This module only works for my admins
 • /unban  - <code>to unban a user.</code>
 • /channel - <code>to get list of total connected channels</code>
 • /broadcast - <code>to broadcast a message to all users</code>"""
-    STATUS_TXT = """★ 𝚃𝙾𝚃𝙰𝙻 𝙵𝙸𝙻𝙴𝚂: <code>{}</code>
-★ 𝚃𝙾𝚃𝙰𝙻 𝚄𝚂𝙴𝚁𝚂: <code>{}</code>
-★ 𝚃𝙾𝚃𝙰𝙻 𝙲𝙷𝙰𝚃𝚂: <code>{}</code>
-★ 𝚄𝚂𝙴𝙳 𝚂𝚃𝙾𝚁𝙰𝙶𝙴: <code>{}</code> 𝙼𝚒𝙱
-★ 𝙵𝚁𝙴𝙴 𝚂𝚃𝙾𝚁𝙰𝙶𝙴: <code>{}</code> 𝙼𝚒𝙱"""
+    STATUS_TXT = """★ ᴛᴏᴛᴀʟ ꜰɪʟᴇꜱ : <code>{}</code>
+★ ᴛᴏᴛᴀʟ ᴜꜱᴇʀꜱ : <code>{}</code>
+★ ᴛᴏᴛᴀʟ ᴄʜᴀᴛꜱ : <code>{}</code>
+★ ᴜꜱᴇᴅ ꜱᴛᴏʀᴀɢᴇ : <code>{}</code> 𝙼𝚒𝙱
+★ ꜰʀᴇᴇ ꜱᴛᴏʀᴀɢᴇ : <code>{}</code> 𝙼𝚒𝙱"""
     LOG_TEXT_G = """#𝐍𝐞𝐰𝐆𝐫𝐨𝐮𝐩
     
 <b>᚛› 𝐆𝐫𝐨𝐮𝐩 ⪼ {}(<code>{}</code>)</b>
