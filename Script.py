@@ -16,13 +16,17 @@ class script(object):
 <i>Aᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴛᴏ sᴇᴇ ᴛʜᴇ ᴍᴀɢɪᴄ ᴏʀ ʀᴇᴀᴅ ᴍᴏʀᴇ ғʀᴏᴍ ᴛʜᴇ ᴍᴇɴᴜ ʙᴇʟᴏᴡ</i>''')
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝙼𝚈 𝙷𝙴𝙻𝙿 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
-    ABOUT_TXT = """<b><i>🤖 ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/OTT_Movies_Search_Bot><b>OTT Search Bot</b></a>\n
-👨‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://t.me/basildmx><b>basil</b></a>\n
-📝 ʟᴀɴɢᴜᴀɢᴇ : ᴘʏʀᴏɢʀᴀᴍ\n
-📚 ꜰʀᴀᴍᴇᴡᴏʀᴋ : ᴘʏᴛʜᴏɴ 3\n
-📡 ʜᴏsᴛᴇᴅ ᴏɴ : heroku \n
-📢 ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/dmx_chating><b></b>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>\n
-🌟 ᴠᴇʀsɪᴏɴ : ᴠ 4.0\n</b></i>"""
+    ABOUT_TXT = """<b><i>🤖 ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/OTT_Movies_Search_Bot><b>OTT Search Bot</b></a>\✯ ᴏɴᴡᴇʀ: <a href=https://t.me/Movie_Flix_Tm>ᴍᴏᴠɪᴇ ᴍᴏᴠɪᴇ</a>
+✯ ʟɪʙʀᴀʀy: ᴩyʀᴏɢʀᴀᴍ
+✯ ʟᴀɴɢᴜᴀɢᴇ: ᴩyᴛʜᴏɴ
+✯ ᴠᴇʀꜱɪᴏɴ : 𝟹.12.0
+✯ ᴅᴀᴛᴀ ʙᴀꜱᴇ: ᴍᴏɴɢᴏ ᴅʙ
+✯ ᴅᴀᴛᴀ ʙᴀꜱᴇ 2 : ʀᴇᴅɪꜱ ᴅʙ
+✯ ꜱᴇʀᴠᴇʀ : ʜᴇʀᴏᴋᴜ
+✯ ᴄᴩᴜ : 2ᴠ ᴄᴩᴜ
+✯ ᴠᴇʀꜱɪᴏɴ : 7.8
+✯ ꜱᴛᴀᴛꜱ : ʙᴇᴛᴀ
+✯ ꜱᴏᴜʀᴄᴇ : ᴩʀɪᴠᴀᴛᴇ ᴄᴏᴅᴇ"""
     SOURCE_TXT = """<b> ꜱʀʏ ɪᴛꜱ ᴩʀɪᴠᴀᴛᴇ ᴄᴏᴅᴇ</b>
 » b>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
