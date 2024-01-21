@@ -11,12 +11,12 @@ def is_enabled(value, default):
         return default
 
 class script(object):
-    START_TXT = environ.get("START_TXT", '''<b>Hello {} 👋🏻 ᴍʏ ɴᴀᴍᴇ ɪꜱ 🚀ᴍᴏᴠɪᴇ ʙᴏᴛ🚀 and i can share Movies and Series 😁.</b>
+    START_TXT = environ.get("START_TXT", '''<b>Hello {} 👋🏻 ᴍʏ ɴᴀᴍᴇ ɪꜱ ʟᴇᴏ ᴅᴀꜱ and i can share Movies and Series 😁.</b>
 
 <i>Aᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴛᴏ sᴇᴇ ᴛʜᴇ ᴍᴀɢɪᴄ ᴏʀ ʀᴇᴀᴅ ᴍᴏʀᴇ ғʀᴏᴍ ᴛʜᴇ ᴍᴇɴᴜ ʙᴇʟᴏᴡ</i>''')
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝙼𝚈 𝙷𝙴𝙻𝙿 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
-    ABOUT_TXT = """<b><i>✯ ᴍʏ ɴᴀᴍᴇ : 🚀ᴍᴏᴠɪᴇ ʙᴏᴛ🚀 \n✯ ᴏɴᴡᴇʀ: <a href=https://t.me/Movie_Flix_Tm>ᴍᴏᴠɪᴇ ᴍᴏᴠɪᴇ</a>
+    ABOUT_TXT = """<b><i>✯ ᴍʏ ɴᴀᴍᴇ : ʟᴇᴏ ᴅᴀꜱ \n✯ ᴏɴᴡᴇʀ: <a href=https://t.me/ame0451>ame</a>
 ✯ ʟɪʙʀᴀʀy: ᴩyʀᴏɢʀᴀᴍ
 ✯ ʟᴀɴɢᴜᴀɢᴇ: ᴩyᴛʜᴏɴ
 ✯ ᴠᴇʀꜱɪᴏɴ : 𝟹.12.0
